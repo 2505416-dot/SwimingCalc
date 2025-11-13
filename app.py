@@ -444,3 +444,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+git add app.py
+git commit -m "Atualiza app.py com import pandas e novo código"
+git push
+
