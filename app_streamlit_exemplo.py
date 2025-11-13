@@ -1,7 +1,7 @@
 """
-EXEMPLO DE CÓDIGO STREAMLIT CORRIGIDO
-Este arquivo mostra como adaptar o código para funcionar no Streamlit Cloud
-e resolver o erro NameError na linha 78.
+CÓDIGO CORRIGIDO PARA STREAMLIT
+Este código substitui todas as chamadas de 'input()' por widgets do Streamlit
+e usa 'st.session_state' para persistir os dados, resolvendo o NameError e o problema de inicialização.
 """
 
 import streamlit as st
@@ -26,7 +26,7 @@ st.markdown("---")
 
 
 # =======================
-# FUNÇÕES DE CÁLCULO (importadas do código original)
+# FUNÇÕES DE CÁLCULO (Adaptadas do código original)
 # =======================
 
 def calcular_area(largura: float, comprimento: float) -> float:
@@ -302,3 +302,4 @@ else:
 # =======================
 st.markdown("---")
 st.markdown("**Desenvolvido com Streamlit** | Calculadora de Orçamento para Piscinas v1.0")
+
