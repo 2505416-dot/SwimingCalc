@@ -3,7 +3,7 @@
 ## 📘 Sobre o Projeto
 O **Orçamento Rápido – Calculadora de Piscinas** é uma ferramenta desenvolvida em **Python** com o objetivo de **automatizar o processo de orçamento de piscinas residenciais**, tornando-o mais rápido, prático e acessível para engenheiros, arquitetos e construtoras.
 
-O projeto surgiu da observação prática dos integrantes **Maria Luiza Mendes Andeasi** **Rafaela Porto** e **Guilherme Silva**, que acompanham obras e identificaram a necessidade de uma solução que reduzisse o tempo e os erros em orçamentos manuais — comuns em projetos desse tipo.
+O projeto surgiu da observação prática dos integrantes **Maria Luiza Mendes Andeasi**, **Rafaela Porto** e **Guilherme Silva**, que acompanham obras e identificaram a necessidade de uma solução que reduzisse o tempo e os erros em orçamentos manuais — comuns em projetos desse tipo.
 
 Com isso, o grupo desenvolveu uma ferramenta capaz de gerar **relatórios técnicos completos** (em **PDF** e **Excel**), com **gráficos de custos, consumo de materiais e etapas construtivas**, proporcionando **transparência e eficiência** no planejamento de obras.
 
