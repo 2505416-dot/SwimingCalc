@@ -4,4 +4,11 @@ matplotlib
 reportlab
 openpyxl
 seaborn
+streamlit
+pandas
+matplotlib
+seaborn
+reportlab
+openpyxl
+
 
